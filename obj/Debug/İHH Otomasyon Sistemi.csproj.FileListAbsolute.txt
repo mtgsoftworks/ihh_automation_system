@@ -1,0 +1,12 @@
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\bin\Debug\İHH Otomasyon Sistemi.exe.config
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\bin\Debug\İHH Otomasyon Sistemi.exe
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\bin\Debug\İHH Otomasyon Sistemi.pdb
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\bin\Debug\MaterialSkin.dll
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH Otomasyon Sistemi.csprojAssemblyReference.cache
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH_Otomasyon_Sistemi.Form1.resources
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH Otomasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH Otomasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH Otomasyon Sistemi.csproj.CopyComplete
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH Otomasyon Sistemi.exe
+C:\Users\Mesut Taha Güven\source\repos\İHH Otomasyon Sistemi\obj\Debug\İHH Otomasyon Sistemi.pdb
